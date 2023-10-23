@@ -1,0 +1,19 @@
+{
+    "editor.minimap.enabled": false,
+    "redhat.telemetry.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.editorAssociations": {
+        "*.swf": "default"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.colorTheme": "Default Dark+",
+    "remote.SSH.remotePlatform": {
+        "csa.edu.jkan.pl": "linux"
+    },
+    "window.zoomLevel": 1
+}
